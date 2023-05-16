@@ -1,0 +1,6 @@
+TOKEN = "6290089881:AAEkO53vnAENsVuwUX3bVnYGPIHHt9cVAls"
+keys = {
+    'доллар': 'USD',
+    'евро': 'EUR',
+    'рубль': 'RUB'
+}
